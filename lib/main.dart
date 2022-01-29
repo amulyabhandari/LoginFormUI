@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         ),
        body: Container(
               color: Colors.blue,
-         padding: const EdgeInsets.all(20),
+         padding: const EdgeInsets.symmetric(horizontal:250),
          child: Column(
            crossAxisAlignment: CrossAxisAlignment.center,
            mainAxisAlignment: MainAxisAlignment.center,
