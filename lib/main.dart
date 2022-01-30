@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
 
              ),
              const Text(
-               "I am a chatboat login to continue",
+               "I am a chatbot login to continue",
                style: TextStyle(
                  fontWeight: FontWeight.w700,
                  color: Colors.black,
